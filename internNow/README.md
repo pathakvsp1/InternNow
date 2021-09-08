@@ -1,4 +1,4 @@
-# Instagram-clone-MERN-Stack
+InternNow
 
-# insta-clone
+Website to post Job/Internship Opportunities.
 
